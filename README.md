@@ -1,11 +1,3 @@
-# 2047-Visual-Shop
-
-- 👋 Hi, I’m @Priyanshu-Upadhyay-27
-- 👀 I’m interested in Computer Vision and Machine Learning
-- 🌱 I’m currently learning Computer Vision
-- 📫 You can reach me via email: priyanshuupadhyay2005@gmail.com
-- ⚡ Fun fact: Did you know? The human eye can distinguish approximately 10 million different colors, but computer vision algorithms can process and analyze images in ways that go beyond human capabilities, such as detecting subtle patterns and recognizing objects at incredible speeds.
-
 ## About the Repository
 
 In this repository, I have some amazing projects like a virtual mouse and AI Notebook, with more exciting projects coming in the future. You can explore and implement them according to the provided configurations.
